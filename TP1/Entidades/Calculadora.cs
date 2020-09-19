@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    public class Calculadora
+    public static class Calculadora
     {
         /// <summary>
         /// Hace una operacion entre dos numeros.
@@ -16,37 +16,40 @@ namespace Entidades
         /// <param name="num2">Tipo Numero - Segundo operando</param>
         /// <param name="operador">Tipo string - Operador</param>
         /// <returns>Tipo double - Retorna el resultado de la operacion</returns>
-        public double Operar(Numero num1, Numero num2, string operador)
+        public static double Operar(Numero num1, Numero num2, string operador)
         {
             double resultado = 0;
-            switch(ValidarOperador(char.Parse(operador)))
+            if (char.TryParse(operador, out char validOperador))
             {
-                case "+":
-                    {
-                        resultado = num1 + num2;
-                        break;
-                    }
-                case "-":
-                    {
-                        resultado = num1 - num2;
-                        break;
-                    }
-                case "*":
-                    {
-                        resultado = num1 * num2;
-                        break;
-                    }
-                case "/":
-                    {
-                        resultado = num1 / num2;
-                        break;
-                    }
-                default:
-                    {
-                        num2.SetNumero = "0";
-                        resultado = num1 + num2;
-                        break;
-                    }
+                switch (ValidarOperador(validOperador))
+                {
+                    case "+":
+                        {
+                            resultado = num1 + num2;
+                            break;
+                        }
+                    case "-":
+                        {
+                            resultado = num1 - num2;
+                            break;
+                        }
+                    case "*":
+                        {
+                            resultado = num1 * num2;
+                            break;
+                        }
+                    case "/":
+                        {
+                            resultado = num1 / num2;
+                            break;
+                        }
+                    default:
+                        {
+                            num2.SetNumero = "0";
+                            resultado = num1 + num2;
+                            break;
+                        }
+                }
             }
             return resultado;
         }

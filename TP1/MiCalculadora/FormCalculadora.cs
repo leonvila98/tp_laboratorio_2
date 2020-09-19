@@ -108,11 +108,11 @@ namespace MiCalculadora
         {
             Numero num1 = new Numero(numero1);
             Numero num2 = new Numero(numero2);
-            Calculadora calculadora = new Calculadora();
-            return calculadora.Operar(num1, num2, operador);
+            return Calculadora.Operar(num1, num2, operador);
         }
         #endregion
 
+        #region "Eventos"
         /// <summary>
         /// Permite ingresar solamente numeros y un solo punto para decimales en txtNumero1 
         /// </summary>
@@ -152,5 +152,46 @@ namespace MiCalculadora
                 e.Handled = true;
             }
         }
+
+        /// <summary>
+        /// No permite escribir en cmbOperador
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void cmbOperador_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            e.Handled = true;
+        }
+
+        /// <summary>
+        /// En el se confirma la salida del formulario
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult salir = MessageBox.Show("¿Seguro de querer salir?", "Salir", MessageBoxButtons.OKCancel);
+
+            if (salir == DialogResult.OK)
+            {
+                e.Cancel = false;
+            }
+            else if(salir == DialogResult.Cancel)
+            {
+                e.Cancel = true;
+            }
+        }
+        
+        /// <summary>
+        /// Llamo al metodo Limpiar
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void FormCalculadora_Load(object sender, EventArgs e)
+        {
+            Limpiar();
+        }
+        #endregion
+
     }
 }

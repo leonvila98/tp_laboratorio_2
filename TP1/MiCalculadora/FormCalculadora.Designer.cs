@@ -73,6 +73,7 @@
             this.cmbOperador.RightToLeft = System.Windows.Forms.RightToLeft.Yes;
             this.cmbOperador.Size = new System.Drawing.Size(100, 33);
             this.cmbOperador.TabIndex = 1;
+            this.cmbOperador.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.cmbOperador_KeyPress);
             // 
             // btnOperar
             // 
@@ -153,6 +154,8 @@
             this.Name = "FormCalculadora";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de León Vila del curso 2ºC";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormCalculadora_FormClosing);
+            this.Load += new System.EventHandler(this.FormCalculadora_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
