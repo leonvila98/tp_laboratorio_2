@@ -1,0 +1,16 @@
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Main.exe.config
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Main.exe
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Main.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Archivos.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Clases Abstractas.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Excepciones.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Archivos.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Entidades.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\bin\Debug\Excepciones.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\obj\Debug\Main.csprojAssemblyReference.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\obj\Debug\Main.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\obj\Debug\Main.csproj.CopyComplete
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\obj\Debug\Main.exe
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Main\obj\Debug\Main.pdb

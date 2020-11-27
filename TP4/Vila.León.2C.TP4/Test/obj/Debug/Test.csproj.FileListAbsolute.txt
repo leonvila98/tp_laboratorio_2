@@ -1,0 +1,10 @@
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\bin\Debug\Test.exe.config
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\bin\Debug\Test.exe
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\bin\Debug\Test.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\bin\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\bin\Debug\Entidades.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\obj\Debug\Test.exe
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Test\obj\Debug\Test.pdb

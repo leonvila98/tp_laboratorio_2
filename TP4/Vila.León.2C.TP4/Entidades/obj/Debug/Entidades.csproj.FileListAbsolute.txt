@@ -1,0 +1,6 @@
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP4\Vila.León.2C.TP4\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Archivos.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Clases Abstractas.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Excepciones.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Archivos.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Clases Abstractas.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\bin\Debug\Excepciones.pdb
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\obj\Debug\Clases Instanciables.csprojAssemblyReference.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\obj\Debug\Clases Instanciables.csproj.CoreCompileInputs.cache
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\obj\Debug\Clases Instanciables.csproj.CopyComplete
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lion\Desktop\Programacion2\GIT\tp_laboratorio_2\TP3\Entidades\obj\Debug\Entidades.pdb
